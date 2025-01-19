@@ -1,0 +1,14 @@
+{
+    "level 1" :{
+        "enemy_probability" : 0.01,
+        "allotted_time" : 20
+    },
+    "level 2" :{
+        "enemy_probability" : 0.05,
+        "allotted_time" : 25
+    },
+    "level 3" :{
+        "enemy_probability" : 0.1,
+        "allotted_time" : 20
+    }
+}
